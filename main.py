@@ -15,4 +15,4 @@ async def forward(ctx):
 
 
 
-bot.run("MTAwMTExMDY0NzQ5NDQyNjYyNA.G_-kba.Fw6EauyAwo7UYlPZYzJ5qXjcHRJk8WtpPuZNc8")
+bot.run("")
